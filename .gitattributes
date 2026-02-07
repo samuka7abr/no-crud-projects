@@ -1,1 +1,1 @@
-*.md text eol=lf diff=markdown linguist-detectable=true linguist-language=Markdown
+*.md linguist-detectable
